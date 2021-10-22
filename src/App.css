@@ -1,0 +1,7 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 28px;
+  margin-top: 370px;
+  color: #878383c9;
+}
