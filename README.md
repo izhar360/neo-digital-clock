@@ -1,7 +1,6 @@
 # Neomorphism design digital clock
 
-### Demo
-Check it live: [https://codesandbox.io/s/neo-digital-clock-y47d6](https://codesandbox.io/s/neo-digital-clock-y47d6)
+
 ![](demo.gif)
 
 
